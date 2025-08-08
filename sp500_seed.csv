@@ -1,0 +1,11 @@
+ticker,company,ats,careers_url
+NVDA,NVIDIA,workday,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+ABNB,Airbnb,greenhouse,https://boards.greenhouse.io/airbnb
+UBER,Uber,lever,https://jobs.lever.co/uber
+SQ,Block (Square),smartrecruiters,https://careers.smartrecruiters.com/Square
+MSFT,Microsoft,workday,https://jobs.careers.microsoft.com/global/en/search
+GOOGL,Alphabet (Google),workday,https://careers.google.com/jobs/results/
+GOOG,Alphabet (Google),workday,https://careers.google.com/jobs/results/
+AAPL,Apple,workday,https://jobs.apple.com/en-us/search
+AMZN,Amazon,other,https://www.amazon.jobs/en/
+META,Meta,workday,https://www.metacareers.com/jobs

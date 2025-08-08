@@ -1,0 +1,41 @@
+
+- ticker: NVDA
+  company: NVIDIA
+  ats: workday
+  careers_url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+- ticker: ABNB
+  company: Airbnb
+  ats: greenhouse
+  careers_url: https://boards.greenhouse.io/airbnb
+- ticker: UBER
+  company: Uber
+  ats: lever
+  careers_url: https://jobs.lever.co/uber
+- ticker: SQ
+  company: Block (Square)
+  ats: smartrecruiters
+  careers_url: https://careers.smartrecruiters.com/Square
+- ticker: MSFT
+  company: Microsoft
+  ats: workday
+  careers_url: https://jobs.careers.microsoft.com/global/en/search
+- ticker: GOOGL
+  company: Alphabet (Google)
+  ats: workday
+  careers_url: https://careers.google.com/jobs/results/
+- ticker: GOOG
+  company: Alphabet (Google)
+  ats: workday
+  careers_url: https://careers.google.com/jobs/results/
+- ticker: AAPL
+  company: Apple
+  ats: workday
+  careers_url: https://jobs.apple.com/en-us/search
+- ticker: AMZN
+  company: Amazon
+  ats: other
+  careers_url: https://www.amazon.jobs/en/
+- ticker: META
+  company: Meta
+  ats: workday
+  careers_url: https://www.metacareers.com/jobs
