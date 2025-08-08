@@ -1,0 +1,8 @@
+
+streamlit>=1.36
+requests>=2.31
+beautifulsoup4>=4.12
+pyyaml>=6.0.1
+pandas>=2.2
+python-dateutil>=2.9
+sqlite-utils>=3.36
